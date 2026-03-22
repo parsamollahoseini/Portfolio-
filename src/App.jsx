@@ -82,13 +82,11 @@ function App() {
             </div>
             <div className="card">
               <h3 className="text-2xl font-semibold mb-4 text-blue-600">Career Philosophy</h3>
-              <p className="text-gray-700 leading-relaxed text-lg italic">
-                "We are the facilitators of our own creative evolution." - Bill Hicks
-              </p>
-              <p className="text-gray-700 leading-relaxed text-lg mt-4">
+              <p className="text-gray-700 leading-relaxed text-lg">
                 I believe in continuous learning and growth through hands-on experience. My approach to software development
                 is rooted in understanding core principles, building scalable solutions, and never settling for "good enough."
                 Every project is an opportunity to push boundaries, learn new technologies, and create something meaningful.
+                Technology moves fast, and I'm committed to staying curious, asking questions, and constantly improving my craft.
                 My goal is to contribute to innovative projects that solve real problems while constantly evolving my skill
                 set to stay at the forefront of technology.
               </p>
